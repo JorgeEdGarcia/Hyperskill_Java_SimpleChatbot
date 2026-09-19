@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Java
+*.class
+
+# Gradle
+.gradle/
+build/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*~
