@@ -4,7 +4,11 @@ files:
     visible: true
     learner_created: false
   - name: test/Tests.java
+    visible: true
     learner_created: false
 feedback_link: https://hyperskill.org/projects/113/stages/614/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 19 Sep 2026 15:07:07 UTC"
 record: -1
